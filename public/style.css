@@ -1,0 +1,23 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  color:  #70a3a6;;
+  background: url("/img/rainbow.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+img{
+  height: 300px;
+}
+
+body > div > div.row > div.col-lg-12.d-flex.well.border{
+  background: border-box;
+  color: #e99b9b;
+}
+body > div > div.row > div.col-lg-12.d-flex.well.border > form > div{
+  color: #e1aba9;
+    background: #c4dfd8;
+}
+.bottom-form{
+  border: border 1px solid rgb(241, 241, 173);
+}
